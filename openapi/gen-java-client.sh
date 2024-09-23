@@ -1,0 +1,1 @@
+java -jar openapi-generator-cli-7.8.0.jar generate -i http://localhost:8000/openapi.json -g java -o generated
